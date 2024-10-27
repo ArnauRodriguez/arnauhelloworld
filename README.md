@@ -1,3 +1,0 @@
-# myhelloworld
-
-Projecte en blanc
